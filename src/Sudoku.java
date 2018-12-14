@@ -13,7 +13,7 @@ public class Sudoku {
 
         sudokuTable = new int[9][9];
 
-        String inputPath = "C:/Users/Lukasz/Desktop/Programowanie/sudoku.txt";
+        String inputPath = "sudoku.txt";
 
         File file = new File(inputPath);
 
